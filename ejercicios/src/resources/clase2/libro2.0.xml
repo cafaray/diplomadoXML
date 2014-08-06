@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<compra>
+  <envio tipo="domicilio" pago="tarjeta">
+    <pantalla cantidad="2">
+      <modelo marca="Sony" />
+    </pantalla>
+  </envio>
+</compra>

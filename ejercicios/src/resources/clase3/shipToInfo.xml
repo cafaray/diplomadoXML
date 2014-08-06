@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<shipto
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='file:/files/dgsca/xml/ejercicios/src/resources/xmlSchema.xsd'>
+    <name>Juan</name>
+    <address>López Mateos 143</address>
+    <city>Tlanepantla</city>
+    <country>México</country>
+
+</shipto>

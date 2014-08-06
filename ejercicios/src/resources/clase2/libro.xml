@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estilo.css"?>
+
+<libros>
+  <libro>
+    <titulo>La ciudad de los prodigios</titulo>
+    <autor>Eduardo Mendoza</autor>
+    <fechaPublicacion>1986</fechaPublicacion>
+  </libro>
+  
+  <libro>
+    <titulo>La ciudad de los prodigios &#64;</titulo>
+    <autor>Eduardo Mendoza</autor>
+    <fechaPublicacion>1986</fechaPublicacion>
+  </libro>
+</libros>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE note [
+<!ENTITY nbsp "&#xA0;">
+<!ENTITY writer "Escribe: Omar Flores">
+<!ENTITY copyright "Copyright: DGSCA-TI.">
+]>
+
+ <note>
+   <to>Federico</to>
+   <from>José</from>
+   <heading>Recordatorio</heading>
+   <body>No olvides la cita para esta tarde</body>
+   <footer>&writer;&nbsp;&copyright;</footer>
+ </note>

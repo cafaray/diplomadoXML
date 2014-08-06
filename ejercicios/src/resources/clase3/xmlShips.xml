@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<shiporder
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='file:/files/dgsca/xml/ejercicios/src/resources/xmlSchema.xsd' orderid="123">
+    <orderperson>Juan José</orderperson>
+    <shipto>
+        <name>Ramiro</name>
+        <address>San Juan de Letran 21</address>
+        <city>Centro</city>
+        <country>México</country>
+    </shipto>
+    <item>
+        <title>Movie 1</title>
+        <note>No note</note>
+        <quantity>120</quantity>
+        <price>32</price>
+    </item>
+    <item>
+        <title>Movie 2</title>
+        <note>Notes notes notes</note>
+        <quantity>35</quantity>
+        <price>121</price>
+    </item>
+    <item>
+        <title>Movie 3</title>
+        <note>Notes for notes</note>
+        <quantity>111</quantity>
+        <price>25</price>
+    </item>
+    
+</shiporder>

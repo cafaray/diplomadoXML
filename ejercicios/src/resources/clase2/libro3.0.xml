@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="libro3.0_xsl.xml"?>
+<propiedades>
+  <propiedad id="1">
+    <direccion>Francisco I. Madero No. 234</direccion>
+    <precio>$1,000,000.00</precio>
+    <comentarios>A una esquina de Bellas Artes</comentarios>
+  </propiedad>
+  
+  <propiedad id="2">
+    <direccion>Palmas 1220</direccion>
+    <precio>$1,20,000.00</precio>
+    <comentarios>Frentea Covadonga</comentarios>
+  </propiedad>
+  
+  <propiedad id="3">
+    <direccion>Calandria 21</direccion>
+    <precio>$620,000.00</precio>
+    <comentarios>Junto al Dominos Pizza</comentarios>
+  </propiedad>
+  
+  <propiedad id="4">
+    <direccion>Puerto Ángel 210</direccion>
+    <precio>$971,200.00</precio>
+    <comentarios>En contraesquina de la estación Coyuya</comentarios>
+  </propiedad>
+  
+  <propiedad id="5">
+    <direccion>Morelos 6</direccion>
+    <precio>$2,100,000.00</precio>
+    <comentarios>--</comentarios>
+  </propiedad>
+</propiedades>
